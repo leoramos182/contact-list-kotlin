@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">contatosRecyclerView</string>
+    <string name="menu_um">Menu um</string>
+    <string name="menu_dois">Menu Dois</string>
 </resources>
